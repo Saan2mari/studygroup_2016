@@ -30,6 +30,6 @@
 * 박수석(David Park) : https://github.com/chiyodad
 * 문명진(Myongjin Moon):https://github.com/skycool7
 * 이태헌(Terry Lee): https://github.com/hunylee
-* 이지산(Jisan Lee): https://github.com/Saan2mari
+* 이지산(Jisan Lee): https://github.com/Saan2mari  /  saan2mari@gmail.com
 * 안정민(Jeongmin Ahn) : https://github.com/wengdiiiy/
 * 김은지(eun ji Kim) : 
